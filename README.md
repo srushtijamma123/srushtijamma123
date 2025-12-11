@@ -13,7 +13,7 @@
 
 ## 🛠 Tech Stack
 - *Languages:* Python,SQL  
-- *Backend:* FastAPI, Flask  
+- *Backend:* FastAPI  
 - *AI/ML:* HuggingFace, LangChain, Transformers  
 - *Tools:* Git, VS Code, Jupyter Notebook  
 - *Learning:* MCP (Model Context Protocol), LLM integrations  

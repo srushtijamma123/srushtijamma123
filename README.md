@@ -7,7 +7,7 @@
 - 🚀 Currently working on *FastAPI* and *Model Context Protocol (MCP)*
 - 🧠 Exploring *Generative AI, LLMs, and conversational intelligence*
 - ✨ Love building simple, clean, and practical AI-driven solutions  
-- 🎓 BCS student passionate about backend + AI integration  
+- 🎓 BSc CS graduate passionate about backend + AI integration 
 
 ---
 
